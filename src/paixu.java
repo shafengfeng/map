@@ -16,7 +16,7 @@ public class paixu {
 
     public  static  void main(String[] args)
     {
-        System.out.println("你妈逼！");
+        System.out.println("文明");
     }
 
 }
